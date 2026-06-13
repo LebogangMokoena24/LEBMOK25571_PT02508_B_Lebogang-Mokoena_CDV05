@@ -5,12 +5,6 @@ A personal portfolio website built with HTML, CSS, and JavaScript as part of the
 
 ---
 
-## Live Preview
-
-> Add your GitHub Pages or deployed URL here once live.
-
----
-
 ## Project Structure
 
 ```
@@ -67,7 +61,7 @@ A responsive web app that fetches live podcast data from an external API with mo
 
 ## Design
 
-- **Colour palette:** Warm neutral base (sandy off-white `#F0EDE8`, card white `#FAFAF8`) with a dark brown accent (`#6B3F1E`). All heading labels, eyebrows, links and highlights use dark brown throughout — no blue or purple anywhere.
+- **Colour palette:** Warm neutral base (sandy off-white `#F0EDE8`, card white `#FAFAF8`) with a dark brown accent (`#6B3F1E`). 
 - **Typography:** Playfair Display for headings paired with Inter for body text.
 - **Signature element:** A fixed ticker strip scrolling skills and disciplines styled after a financial market feed.
 - **Hero layout:** Name and tagline sit alongside a portrait photo on desktop, stacking cleanly on mobile.
