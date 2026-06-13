@@ -78,4 +78,4 @@ A responsive web app that fetches live podcast data from an external API with mo
 
 ---
 
-*Built by Lebogang Mokoena · 2025*
+*Built by Lebogang Mokoena*
