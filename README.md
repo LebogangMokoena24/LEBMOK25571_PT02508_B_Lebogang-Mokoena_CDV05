@@ -1,5 +1,5 @@
 # LEBMOK25571_PT02508_B_Lebogang-Mokoena_CDV05
-# Lebogang Mokoena — Developer Portfolio
+# Lebogang Mokoena - Developer Portfolio
 
 A personal portfolio website built with HTML, CSS, and JavaScript as part of the CodeSpace Academy CDV05 project. The site showcases my passion for finance and technology, my educational journey, and three projects completed during the Software Developer Certificate programme.
 
